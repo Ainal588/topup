@@ -1,0 +1,148 @@
+.Notice{
+   font-size: 17px;
+    color: white;
+    background-color: black;
+}
+.m1{
+    font-size: 20px;
+    background-color: rgb(68, 128, 0);
+    color: white;
+    padding: 10px;
+   border-radius: 20px;
+   margin-left: 400px;
+}
+.m1:hover{
+    color: white;
+    background-color: black;
+    font-size: 23px;
+}
+.m2{
+    font-size: 20px;
+   background-color:rgba(0, 89, 255, 0.89);
+   color: white;
+   padding: 10px;
+   border-radius: 20px;
+   margin-left: 50px;
+}
+.m2:hover{
+    color: white;
+    background-color: black;
+    font-size: 23px;
+}
+.m3{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    padding: 10px;
+   border-radius: 20px;
+   margin-left: 50px;
+}
+.m3:hover{
+    color: white;
+    background-color: black;
+    font-size: 23px;
+}
+input{
+    width:200px;
+    height:20px;
+    margin-left: 1000px;
+    
+}
+
+.logo a{
+    font-size: 30px;
+    text-decoration: none;
+    color: rgba(0, 128, 0, 0.781);
+}
+.myacount a{
+    font-size: 23px;
+    margin-left: 60px;
+    text-decoration: none;
+    color: white;
+}
+.myacount a:hover{
+    text-decoration: underline;
+}
+.livechats a{
+    font-size: 23px;
+    margin-left: 60px;
+    text-decoration: none;
+    color: white;
+}
+.livechats a:hover{
+    text-decoration: underline;
+}
+.oder a{
+    font-size: 23px;
+    margin-left: 60px;
+    text-decoration: none;
+    color:white;
+}
+.oder a:hover{
+    text-decoration: underline;
+}
+.lostpass a{
+    font-size: 23px;
+    margin-left: 60px;
+    text-decoration: none;
+    color: white;
+}
+.lostpass a:hover{
+    text-decoration:underline
+}
+div{
+    display: flex;
+    background: linear-gradient(320deg, rgba(0, 81, 255, 0.486), rgba(255, 115, 0, 0.568), rgba(255, 0, 85, 0.541), rgba(255, 255, 0, 0.548));
+}
+.ff1{
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+}
+.ff1:hover{
+    width: 220px;
+}
+.ff2{
+    height: 150px;
+    width: 200px; 
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.ff2:hover{
+    width: 220px;
+}
+.fa-whatsapp{
+    margin-top: 200px;
+    margin-left: 1200px;
+    font-size: 50px;
+    color: rgba(30, 128, 0, 0.822);
+    position: fixed;
+}
+.search{
+    border-radius: 20px;
+    padding: 5px;
+}
+.day1{
+    text-decoration: none;
+}
+.ff3{
+    height: 150px;
+    width: 200px; 
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.ff3:hover{
+    width: 220px;
+}
+.ff4{
+    height: 150px;
+    width: 200px; 
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.ff4:hover{
+    width: 220px;
+}
